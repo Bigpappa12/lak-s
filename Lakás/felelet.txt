@@ -1,0 +1,2 @@
+A vezérlőpult területi beállításai között milyen pénznem formátumok közül választhatunk? forint, dollar, euro
+Mi az alapértelmezett böngésző? Microsoft Edge
